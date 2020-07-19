@@ -35,8 +35,4 @@ build/
 # ignore File
 *.log
 *.idea
-/.mvn/
-/mvnw
-/mvnw.bat
-mvnw.cmd
 .DS_Store
