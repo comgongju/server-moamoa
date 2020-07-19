@@ -28,8 +28,8 @@ $ mvn spring-boot:run
 
 ### Run Spring Boot app
 ```
-cd 프로젝트 경로
-mvn spring-boot:run
+$ cd 프로젝트 경로
+$ mvn spring-boot:run
 ```
 
 ### Additional references link
