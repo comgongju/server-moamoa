@@ -11,7 +11,7 @@ jdk 설치는 생략. Java SDK v1.8 이상을 권장합니다.
 $ java -version
 ```
 ### Maven
-Maven 버전은 3.3+ 이상을 권장합니다.
+Maven 버전은 3.3 이상을 권장합니다.
 ```
 # Mac
 $ brew install maven
@@ -33,5 +33,5 @@ mvn spring-boot:run
 ```
 
 ### Additional references link
-[How to install Maven](https://www.baeldung.com/install-maven-on-windows-linux-mac)
+[How to install Maven](https://www.baeldung.com/install-maven-on-windows-linux-mac)  
 [Installing Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html)
