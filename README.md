@@ -22,7 +22,6 @@ $ sudo apt-get install maven
 # Windows
 $ choco install maven
 
-$ mvn spring-boot:run
 ```
 윈도우의 경우 power shell 에서 Chocolatey 패키지 매니저를 이용해 choco 키워드로 설치 하면 편리합니다.
 
